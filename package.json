@@ -1,6 +1,6 @@
 {
   "name": "u-css-purge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy to use Node.js module that purges unused CSS code from your CSS files",
   "main": "index.js",
   "directories": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/pmoluno/u-css-purge#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.0.0-rc.12",
+    "glob": "^11.0.0"
   }
 }
