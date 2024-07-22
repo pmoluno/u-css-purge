@@ -1,0 +1,23 @@
+{
+  "name": "u-css-purge",
+  "version": "1.0.0",
+  "description": "An easy to use Node.js module that purges unused CSS code from your CSS files",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "purge",
+    "optimize",
+    "unused"
+  ],
+  "author": "P Moluno",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
