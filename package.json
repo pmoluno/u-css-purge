@@ -16,7 +16,11 @@
     "unused"
   ],
   "author": "P Moluno",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmoluno/u-css-purge/issues"
+  },
+  "homepage": "https://github.com/pmoluno/u-css-purge#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12"
   }
