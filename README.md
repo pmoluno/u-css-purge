@@ -1,5 +1,7 @@
 # u-purge-css
 
+![NPM Version](https://img.shields.io/npm/v/u-css-purge)
+
 An easy to use Node.js module that purges unused CSS code from your CSS files.
 
 ## Installation
